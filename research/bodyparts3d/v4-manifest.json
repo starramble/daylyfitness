@@ -1,0 +1,797 @@
+[
+  {
+    "name": "(Abdominal part of pectoralis major muscle).l",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "(Abdominal part of pectoralis major muscle).r",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "(Adductor minimus).l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "(Adductor minimus).r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Acromial part of deltoid muscle.l",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Acromial part of deltoid muscle.r",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Adductor brevis.l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Adductor brevis.r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Adductor longus.l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Adductor longus.r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Adductor magnus.l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Adductor magnus.r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Ascending part of trapezius muscle.l",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Ascending part of trapezius muscle.r",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Brachialis muscle.l",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Brachialis muscle.r",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Brachioradialis muscle.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Brachioradialis muscle.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Clavicle.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Clavicle.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Clavicular head of pectoralis major muscle.l",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "Clavicular head of pectoralis major muscle.r",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "Clavicular part of deltoid muscle.l",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Clavicular part of deltoid muscle.r",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Coracobrachialis muscle.l",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Coracobrachialis muscle.r",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Deep head of pronator teres.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Deep head of pronator teres.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Descending part of trapezius muscle.l",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Descending part of trapezius muscle.r",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Extensor carpi radialis brevis.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor carpi radialis brevis.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor carpi radialis longus.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor carpi radialis longus.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor digiti minimi.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor digiti minimi.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor indicis.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Extensor indicis.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "External abdominal oblique muscle.l",
+    "muscleId": "obliques",
+    "family": "core"
+  },
+  {
+    "name": "External abdominal oblique muscle.r",
+    "muscleId": "obliques",
+    "family": "core"
+  },
+  {
+    "name": "Femur.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Femur.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Fibula.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Fibula.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Flexor carpi radialis.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Flexor carpi radialis.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Flexor digitorum profundus.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Flexor digitorum profundus.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Gluteus maximus muscle.l",
+    "muscleId": "glutes",
+    "family": "leg"
+  },
+  {
+    "name": "Gluteus maximus muscle.r",
+    "muscleId": "glutes",
+    "family": "leg"
+  },
+  {
+    "name": "Gluteus medius muscle.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Gluteus medius muscle.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Gracilis muscle.l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Gracilis muscle.r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Hip bone.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Hip bone.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Humeral head of extensor carpi ulnaris.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humeral head of extensor carpi ulnaris.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humeral head of flexor carpi ulnaris.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humeral head of flexor carpi ulnaris.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humero-ulnar head of flexor digitorum superficialis.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humero-ulnar head of flexor digitorum superficialis.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Humerus.l",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Humerus.r",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Iliocostalis lumborum muscle.l",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Iliocostalis lumborum muscle.r",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Iliocostalis thoracis muscle.l",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Iliocostalis thoracis muscle.r",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Infraspinatus muscle.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Infraspinatus muscle.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Lateral head of gastrocnemius.l",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Lateral head of gastrocnemius.r",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Lateral head of triceps brachii.l",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Lateral head of triceps brachii.r",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Latissimus dorsi muscle.l",
+    "muscleId": "lats",
+    "family": "core"
+  },
+  {
+    "name": "Latissimus dorsi muscle.r",
+    "muscleId": "lats",
+    "family": "core"
+  },
+  {
+    "name": "Long head of biceps brachii.l",
+    "muscleId": "biceps",
+    "family": "arm"
+  },
+  {
+    "name": "Long head of biceps brachii.r",
+    "muscleId": "biceps",
+    "family": "arm"
+  },
+  {
+    "name": "Long head of biceps femoris.l",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Long head of biceps femoris.r",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Long head of triceps brachii.l",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Long head of triceps brachii.r",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Longissimus thoracis muscle.l",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Longissimus thoracis muscle.r",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Medial head of gastrocnemius.l",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Medial head of gastrocnemius.r",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Medial head of triceps brachii.l",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Medial head of triceps brachii.r",
+    "muscleId": "triceps",
+    "family": "arm"
+  },
+  {
+    "name": "Palmaris longus muscle.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Palmaris longus muscle.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Patella.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Patella.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Pectineus muscle.l",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Pectineus muscle.r",
+    "muscleId": "adductors",
+    "family": "leg"
+  },
+  {
+    "name": "Pronator quadratus.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Pronator quadratus.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Radial head of flexor digitorum superficialis.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Radial head of flexor digitorum superficialis.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Radius.l",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Radius.r",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Rectus abdominis muscle.l",
+    "muscleId": "abs",
+    "family": "core"
+  },
+  {
+    "name": "Rectus abdominis muscle.r",
+    "muscleId": "abs",
+    "family": "core"
+  },
+  {
+    "name": "Rectus femoris muscle.l",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Rectus femoris muscle.r",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Sacrum",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Sartorius muscle.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Sartorius muscle.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Scapula.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Scapula.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Scapular spinal part of deltoid muscle.l",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Scapular spinal part of deltoid muscle.r",
+    "muscleId": "deltoids",
+    "family": "arm"
+  },
+  {
+    "name": "Semimembranosus muscle.l",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Semimembranosus muscle.r",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Semispinalis thoracis muscle.l",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Semispinalis thoracis muscle.r",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Semitendinosus muscle.l",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Semitendinosus muscle.r",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Serratus anterior muscle.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Serratus anterior muscle.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Short head of biceps brachii.l",
+    "muscleId": "biceps",
+    "family": "arm"
+  },
+  {
+    "name": "Short head of biceps brachii.r",
+    "muscleId": "biceps",
+    "family": "arm"
+  },
+  {
+    "name": "Short head of biceps femoris.l",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Short head of biceps femoris.r",
+    "muscleId": "hamstrings",
+    "family": "leg"
+  },
+  {
+    "name": "Soleus muscle.l",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Soleus muscle.r",
+    "muscleId": "calves",
+    "family": "leg"
+  },
+  {
+    "name": "Spinalis thoracis muscle.l",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Spinalis thoracis muscle.r",
+    "muscleId": "erectors",
+    "family": "core"
+  },
+  {
+    "name": "Sternocleidomastoid muscle.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Sternocleidomastoid muscle.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Sternocostal head of pectoralis major muscle.l",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "Sternocostal head of pectoralis major muscle.r",
+    "muscleId": "chest",
+    "family": "core"
+  },
+  {
+    "name": "Superficial head of pronator teres.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Superficial head of pronator teres.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Supinator.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Supinator.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Teres major muscle.l",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Teres major muscle.r",
+    "muscleId": "",
+    "family": "core"
+  },
+  {
+    "name": "Tibia.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Tibia.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis anterior muscle.e1l",
+    "muscleId": "tibialis",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis anterior muscle.e1r",
+    "muscleId": "tibialis",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis anterior muscle.l",
+    "muscleId": "tibialis",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis anterior muscle.r",
+    "muscleId": "tibialis",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis posterior muscle.l",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Tibialis posterior muscle.r",
+    "muscleId": "",
+    "family": "leg"
+  },
+  {
+    "name": "Transverse part of trapezius muscle.l",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Transverse part of trapezius muscle.r",
+    "muscleId": "traps",
+    "family": "core"
+  },
+  {
+    "name": "Ulna.l",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Ulna.r",
+    "muscleId": "",
+    "family": "arm"
+  },
+  {
+    "name": "Ulnar head of extensor carpi ulnaris.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Ulnar head of extensor carpi ulnaris.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Ulnar head of flexor carpi ulnaris.l",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Ulnar head of flexor carpi ulnaris.r",
+    "muscleId": "forearms",
+    "family": "arm"
+  },
+  {
+    "name": "Vastus intermedius muscle.l",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Vastus intermedius muscle.r",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Vastus lateralis muscle.l",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Vastus lateralis muscle.r",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Vastus medialis muscle.l",
+    "muscleId": "quads",
+    "family": "leg"
+  },
+  {
+    "name": "Vastus medialis muscle.r",
+    "muscleId": "quads",
+    "family": "leg"
+  }
+]

@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.DS_Store
+
+# Local verification outputs and intermediate model exports
+artifacts/
+public/models/bodyparts3d-fitness.glb
+
+# Local configuration and logs
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.py[cod]

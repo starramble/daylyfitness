@@ -1,0 +1,4 @@
+import fs from 'node:fs';import * as T from 'three';import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';import {createBodyRig,setGrip} from '../src/bodyRig';import {attachAnatomyAsset} from '../src/anatomyAsset';import {applyPushup} from '../src/movement';
+const b=fs.readFileSync('public/models/anatomy-v4.glb');const gltf=await new GLTFLoader().parseAsync(b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),'');const rig=createBodyRig();attachAnatomyAsset(rig,gltf.scene);
+function info(title:string){rig.root.updateMatrixWorld(true);rig.skeleton.update();console.log(title);for(const m of rig.meshes.filter(m=>/hand|foot|head|Rectus abdominis|Latissimus/i.test(m.name))){m.computeBoundingBox();console.log(m.name,m.userData,m.boundingBox?.min.toArray(),m.boundingBox?.max.toArray());}}
+info('REST');setGrip(rig,1);info('GRIP');setGrip(rig,0);applyPushup(rig,1);info('PUSHUP');

@@ -1,0 +1,2 @@
+import fs from 'node:fs';import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';import * as T from 'three';
+const b=fs.readFileSync('public/models/anatomy-v4.glb');const a=await new GLTFLoader().parseAsync(b.buffer.slice(b.byteOffset,b.byteOffset+b.byteLength),'');a.scene.updateMatrixWorld(true);a.scene.traverse(o=>{if(o instanceof T.Mesh && /^(head|left-foot|right-foot)$|sternocleidomastoid/i.test(o.name)){o.geometry.computeBoundingBox();console.log(o.name,o.userData, o.geometry.boundingBox);}});

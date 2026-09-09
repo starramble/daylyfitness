@@ -1,0 +1,1641 @@
+{
+  "parts": [
+    {
+      "id": "FJ1394",
+      "name": "lateral head of right gastrocnemius",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1394M",
+      "name": "lateral head of left gastrocnemius",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1395",
+      "name": "long head of right biceps femoris",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1395M",
+      "name": "long head of left biceps femoris",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1397",
+      "name": "medial head of right gastrocnemius",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1397M",
+      "name": "medial head of left gastrocnemius",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1401",
+      "name": "right adductor brevis",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1401M",
+      "name": "left adductor brevis",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1402",
+      "name": "right adductor longus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1402M",
+      "name": "left adductor longus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1403",
+      "name": "right adductor magnus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1403M",
+      "name": "left adductor magnus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1404",
+      "name": "right adductor minimus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1404M",
+      "name": "left adductor minimus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1405",
+      "name": "right calcaneal tendon",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1405M",
+      "name": "left calcaneal tendon",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1418",
+      "name": "right gluteus maximus",
+      "muscleId": "glutes",
+      "rigPart": "pelvis",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1418M",
+      "name": "left gluteus maximus",
+      "muscleId": "glutes",
+      "rigPart": "pelvis",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1419",
+      "name": "right gluteus medius",
+      "muscleId": "",
+      "rigPart": "pelvis",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1419M",
+      "name": "left gluteus medius",
+      "muscleId": "",
+      "rigPart": "pelvis",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1421",
+      "name": "right gracilis",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1421M",
+      "name": "left gracilis",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1423",
+      "name": "right iliotibial tract",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1423M",
+      "name": "left iliotibial tract",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1427",
+      "name": "right pectineus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1427M",
+      "name": "left pectineus",
+      "muscleId": "adductors",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1433",
+      "name": "right rectus femoris",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1433M",
+      "name": "left rectus femoris",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1434",
+      "name": "right sartorius",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1434M",
+      "name": "left sartorius",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1435",
+      "name": "right semimembranosus",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1435M",
+      "name": "left semimembranosus",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1436",
+      "name": "right semitendinosus",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1436M",
+      "name": "left semitendinosus",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1437",
+      "name": "right soleus",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1437M",
+      "name": "left soleus",
+      "muscleId": "calves",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1438",
+      "name": "right tensor fasciae latae",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1438M",
+      "name": "left tensor fasciae latae",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1439",
+      "name": "right tibialis anterior",
+      "muscleId": "tibialis",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1439M",
+      "name": "left tibialis anterior",
+      "muscleId": "tibialis",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1441",
+      "name": "right vastus intermedius",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1441M",
+      "name": "left vastus intermedius",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1442",
+      "name": "right vastus lateralis",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1442M",
+      "name": "left vastus lateralis",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1443",
+      "name": "right vastus medialis",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1443M",
+      "name": "left vastus medialis",
+      "muscleId": "quads",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1444",
+      "name": "short head of right biceps femoris",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1444M",
+      "name": "short head of left biceps femoris",
+      "muscleId": "hamstrings",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1446",
+      "name": "abdominal part of right pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1446M",
+      "name": "abdominal part of left pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1447",
+      "name": "clavicular part of right pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1447M",
+      "name": "clavicular part of left pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1452",
+      "name": "right external oblique",
+      "muscleId": "obliques",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1452M",
+      "name": "left external oblique",
+      "muscleId": "obliques",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1459",
+      "name": "right serratus anterior",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1459M",
+      "name": "left serratus anterior",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1464",
+      "name": "sternocostal part of right pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1464M",
+      "name": "sternocostal part of left pectoralis major",
+      "muscleId": "chest",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1467",
+      "name": "acromial part of right deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1467M",
+      "name": "acromial part of left deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1468",
+      "name": "clavicular part of right deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1468M",
+      "name": "clavicular part of left deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1472",
+      "name": "right extensor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1472M",
+      "name": "left extensor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1473",
+      "name": "humeral head of right flexor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1473M",
+      "name": "humeral head of left flexor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1474",
+      "name": "humeral head of right pronator teres",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1474M",
+      "name": "humeral head of left pronator teres",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1475",
+      "name": "right flexor digitorum superficialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1475M",
+      "name": "left flexor digitorum superficialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1477",
+      "name": "lateral head of right triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1477M",
+      "name": "lateral head of left triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1478",
+      "name": "long head of right biceps brachii",
+      "muscleId": "biceps",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1478M",
+      "name": "long head of left biceps brachii",
+      "muscleId": "biceps",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1479",
+      "name": "long head of right triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1479M",
+      "name": "long head of left triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1480",
+      "name": "medial head of right triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1480M",
+      "name": "medial head of left triceps brachii",
+      "muscleId": "triceps",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1486",
+      "name": "right brachialis",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1486M",
+      "name": "left brachialis",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1487",
+      "name": "right brachioradialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1487M",
+      "name": "left brachioradialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1488",
+      "name": "right coracobrachialis",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1488M",
+      "name": "left coracobrachialis",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1489",
+      "name": "right extensor carpi radialis brevis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1489M",
+      "name": "left extensor carpi radialis brevis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1490",
+      "name": "right extensor carpi radialis longus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1490M",
+      "name": "left extensor carpi radialis longus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1491",
+      "name": "right extensor digiti minimi",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1491M",
+      "name": "left extensor digiti minimi",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1492",
+      "name": "right extensor digitorum",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1492M",
+      "name": "left extensor digitorum",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1493",
+      "name": "right extensor indicis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1493M",
+      "name": "left extensor indicis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1496",
+      "name": "right flexor carpi radialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1496M",
+      "name": "left flexor carpi radialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1497",
+      "name": "right flexor digitorum profundus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1497M",
+      "name": "left flexor digitorum profundus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1499",
+      "name": "right flexor digitorum superficialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1499M",
+      "name": "left flexor digitorum superficialis",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1500",
+      "name": "right infraspinatus muscle",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1500M",
+      "name": "left infraspinatus muscle",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1502",
+      "name": "right palmaris longus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1502M",
+      "name": "left palmaris longus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1503",
+      "name": "right pronator quadratus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1503M",
+      "name": "left pronator quadratus",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1505",
+      "name": "right supinator",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1505M",
+      "name": "left supinator",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1507",
+      "name": "right teres major",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1507M",
+      "name": "left teres major",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1512",
+      "name": "short head of right biceps brachii",
+      "muscleId": "biceps",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1512M",
+      "name": "short head of left biceps brachii",
+      "muscleId": "biceps",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1513",
+      "name": "spinal part of right deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1513M",
+      "name": "spinal part of left deltoid",
+      "muscleId": "deltoids",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1516",
+      "name": "ulnar head of right pronator teres",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1516M",
+      "name": "ulnar head of left pronator teres",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1517",
+      "name": "right extensor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1517M",
+      "name": "left extensor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1518",
+      "name": "ulnar head of right flexor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1518M",
+      "name": "ulnar head of left flexor carpi ulnaris",
+      "muscleId": "forearms",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1520",
+      "name": "ascending part of right trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1520M",
+      "name": "ascending part of left trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1521",
+      "name": "descending part of right trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1521M",
+      "name": "descending part of left trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1527",
+      "name": "right iliocostalis lumborum",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1527M",
+      "name": "left iliocostalis lumborum",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1528",
+      "name": "right iliocostalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1528M",
+      "name": "left iliocostalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1535",
+      "name": "right longissimus thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1535M",
+      "name": "left longissimus thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1540",
+      "name": "right semispinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1540M",
+      "name": "left semispinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1544",
+      "name": "right spinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1544M",
+      "name": "left spinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1551",
+      "name": "right interspinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1551M",
+      "name": "left interspinalis thoracis",
+      "muscleId": "erectors",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1554",
+      "name": "transverse part of right trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ1554M",
+      "name": "transverse part of left trapezius",
+      "muscleId": "traps",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1573",
+      "name": "left sternocleidomastoid",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ1595",
+      "name": "right sternocleidomastoid",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3152",
+      "name": "right hip bone",
+      "muscleId": "",
+      "rigPart": "pelvis",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3154",
+      "name": "tenth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3155",
+      "name": "eleventh thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3156",
+      "name": "twelfth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3157",
+      "name": "first lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3158",
+      "name": "first thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3159",
+      "name": "second lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3160",
+      "name": "second thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3161",
+      "name": "third cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3162",
+      "name": "third lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3163",
+      "name": "third thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3164",
+      "name": "fourth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3165",
+      "name": "fourth lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3166",
+      "name": "fourth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3167",
+      "name": "fifth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3168",
+      "name": "fifth lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3169",
+      "name": "fifth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3170",
+      "name": "sixth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3171",
+      "name": "sixth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3172",
+      "name": "seventh cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3173",
+      "name": "seventh thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3174",
+      "name": "eighth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3175",
+      "name": "ninth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3176",
+      "name": "cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3177",
+      "name": "cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3178",
+      "name": "body of sternum",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3202",
+      "name": "intervertebral disk of cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3203",
+      "name": "intervertebral disk of fourth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3204",
+      "name": "intervertebral disk of fifth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3205",
+      "name": "intervertebral disk of sixth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3206",
+      "name": "intervertebral disk of seventh thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3207",
+      "name": "intervertebral disk of eighth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3208",
+      "name": "intervertebral disk of ninth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3209",
+      "name": "intervertebral disk of tenth thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3210",
+      "name": "intervertebral disk of eleventh thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3212",
+      "name": "intervertebral disk of first lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3213",
+      "name": "intervertebral disk of third cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3214",
+      "name": "intervertebral disk of second lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3215",
+      "name": "intervertebral disk of third lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3216",
+      "name": "intervertebral disk of fourth lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3217",
+      "name": "intervertebral disk of fifth lumbar vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3218",
+      "name": "intervertebral disk of fourth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3219",
+      "name": "intervertebral disk of fifth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3220",
+      "name": "intervertebral disk of sixth cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3221",
+      "name": "intervertebral disk of seventh cervical vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3222",
+      "name": "intervertebral disk of first thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3223",
+      "name": "intervertebral disk of second thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3224",
+      "name": "intervertebral disk of third thoracic vertebra",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3225",
+      "name": "left tenth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3226",
+      "name": "left eleventh rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3227",
+      "name": "left twelfth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3228",
+      "name": "left first rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3229",
+      "name": "left second rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3230",
+      "name": "left third rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3231",
+      "name": "left fourth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3232",
+      "name": "left fifth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3233",
+      "name": "left sixth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3234",
+      "name": "left seventh rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3235",
+      "name": "left eighth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3236",
+      "name": "left ninth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3237",
+      "name": "left clavicle",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3259",
+      "name": "left femur",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3260",
+      "name": "left fibula",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3262",
+      "name": "left humerus",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3275",
+      "name": "left patella",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3277",
+      "name": "left radius",
+      "muscleId": "",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3279",
+      "name": "left scapula",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3282",
+      "name": "left tibia",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3286",
+      "name": "left ulna",
+      "muscleId": "",
+      "rigPart": "lower",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3288",
+      "name": "left hip bone",
+      "muscleId": "",
+      "rigPart": "pelvis",
+      "bodySide": "left"
+    },
+    {
+      "id": "FJ3290",
+      "name": "Manubrium of sternum",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "center"
+    },
+    {
+      "id": "FJ3330",
+      "name": "right tenth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3331",
+      "name": "right eleventh rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3332",
+      "name": "right twelfth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3334",
+      "name": "right first rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3336",
+      "name": "right second rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3338",
+      "name": "right third rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3340",
+      "name": "right fourth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3342",
+      "name": "right fifth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3344",
+      "name": "right sixth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3346",
+      "name": "right seventh rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3347",
+      "name": "right eighth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3348",
+      "name": "right ninth rib",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3349",
+      "name": "right radius",
+      "muscleId": "",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3362",
+      "name": "right clavicle",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3365",
+      "name": "right femur",
+      "muscleId": "",
+      "rigPart": "thigh",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3366",
+      "name": "right fibula",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3368",
+      "name": "right humerus",
+      "muscleId": "",
+      "rigPart": "upper",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3381",
+      "name": "right patella",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3384",
+      "name": "right scapula",
+      "muscleId": "",
+      "rigPart": "torso",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3387",
+      "name": "right tibia",
+      "muscleId": "",
+      "rigPart": "shin",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3391",
+      "name": "right ulna",
+      "muscleId": "",
+      "rigPart": "lower",
+      "bodySide": "right"
+    },
+    {
+      "id": "FJ3393",
+      "name": "Sacrum",
+      "muscleId": "",
+      "rigPart": "pelvis",
+      "bodySide": "center"
+    }
+  ],
+  "supplemental": [
+    "abs",
+    "lats"
+  ],
+  "sourceLicense": "CC BY-SA 2.1 Japan (source OBJ headers)",
+  "modelCount": 243
+}

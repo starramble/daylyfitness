@@ -1,0 +1,29 @@
+Dayly anatomy v4 — source, license and modifications (2026-09-08)
+
+Required source attributions:
+BodyParts3D - The Database Center for Life Science - CC-BY-SA 2.1 Japan
+Z-Anatomy - The open source atlas of anatomy - CC-BY-SA 4.0
+
+Sources:
+https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX
+MuscularSystem100.fbx, SkeletalSystem100.fbx
+Upstream license: https://github.com/LluisV/Z-Anatomy/blob/PC-Version/Resources/Models/License.txt
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/2.1/jp/
+
+Head, hand and foot skin subset: BodyParts3D FJ2810.obj
+https://github.com/jixiangying/anatomy/tree/main/isa_BP3D_4.0_obj_99
+The OBJ embeds CC BY-SA 2.1 Japan; attribution is retained. Current DBCLS licensing page separately states CC BY 4.0; source-embedded notices are retained conservatively.
+
+Modifications by Dayly: selected superficial muscles and bones; discarded insertion-reference marker meshes; welded vertices, recalculated normals, reduced polygons and subdivided surfaces; applied a continuous coordinate deformation to common rest landmarks; separated muscle/tendon materials; supplied directional fiber shading; assigned shared skeleton skin weights and wrist/digital joints; normalized hand pose; omitted exposed digital tendon surfaces covered by hand skin; authored joint motion, fixed support IK and dumbbell grip sockets. These derivatives retain the source attributions and applicable share-alike terms. Distribute this notice with exported meshes.
+
+Rectus abdominis and latissimus dorsi are the actual segmented Z-Anatomy meshes. V3 synthetic abdominal strips, lat ellipsoids and pelvic connector are not used. Fiber shading is a display treatment, not measured fiber architecture.
+
+The unrigged intermediate anatomy-v4.glb is bound to the shared skeleton at runtime. Exported v4 GLB contains bone joints, inverse bind matrices and skin weights in the current pose. The runtime uses authored animations, not motion capture or a musculoskeletal force simulation. Highlights are exercise role labels, not EMG measurements. Kinematic tests do not constitute professional coaching or clinical validation.
+
+Shoulder refinement: reduced superior/lateral deltoid cap prominence with a symmetric continuous deformation applied to nearby tissue surfaces after calculating original skin weights. Joint pivots and attachment weights are preserved. The runtime applies this refinement and includes it in new exports.
+
+2026-09-08 transition revision: Original BodyParts3D head and foot surfaces extended into neck and ankle overlap regions, radially tapered at the boundary, boundary vertices smoothed, normals recalculated. Runtime skin surface color/roughness harmonized with neutral anatomy. The face, hands and feet remain exterior surfaces, not complete exposed-muscle dissections. Existing shared skeleton and shoulder contour correction retained.
+Final rim fitting projects the extended transition band toward adjacent anatomical surfaces using nearest-surface queries, with a smooth falloff and a small inward offset.
+
+2026-09-08 face contour correction: Recovered the original head surface. Facial vertices (y >= 3.215 or anterior z >= 0.13 in rest coordinates) and their original triangles are preserved. Neck taper is restricted below that boundary and posterior to the chin; the lower neck crop receives additional connected transition rings. Whole-head shrink-to-neck projection is disabled.
